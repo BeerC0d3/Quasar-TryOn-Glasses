@@ -6,6 +6,7 @@
       style="width: 200px; height: 200px"
     />
     <h3>Hola Mundo</h3>
+    <h4>desde la mac</h4>
   </q-page>
 </template>
 
